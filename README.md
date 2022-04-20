@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MoizTareen
-- 🌱 Interested in engineering and coding.
-- 🌱 I’m currently learning ... Python.
+- 🌱 Interested in medical and coding.
+- ⚡  I’m currently learning Python.
 - 📫 The best way to reach me is my [Discord Server](https://discord.gg/PDNkA9WP)
 
 <!---
