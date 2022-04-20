@@ -9,7 +9,7 @@
 ### 🛠 &nbsp;Languages and Tools :
 <p>  
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,stackoverflow,bots&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,node.js)](https://skillicons.dev)
   
 </p>
 
