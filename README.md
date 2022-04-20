@@ -1,6 +1,5 @@
 # Hey there, I'm Moiz Tareen
 
-- 👋 Hi, I’m @MoizTareen
 - 🌱 Interested in medical and coding.
 - ⚡  I’m currently learning Python.
 - 📫 The best way to reach me is my [Discord Server](https://discord.gg/PDNkA9WP)
@@ -11,7 +10,7 @@
 ### 🛠 &nbsp;Languages and Tools :
 <p>  
   
-[![My Skills](https://skillicons.dev/icons?i=nodejs,html,css&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css&perline=5)](https://skillicons.dev)
   
 </p>
 
