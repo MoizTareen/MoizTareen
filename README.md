@@ -1,5 +1,6 @@
 # Hey there, I'm Moiz Tareen
 
+- 👋 I'm currently working on a Discord bot and a website.
 - 🌱 Interested in medical and coding.
 - ⚡  I’m currently learning Python.
 - 📫 The best way to reach me is my [Discord Server](https://discord.gg/PDNkA9WP)
