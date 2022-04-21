@@ -11,7 +11,7 @@
 ### 🛠 &nbsp;Languages and Tools :
 <p>  
   
-[![My Skills](https://skillicons.dev/icons?i=html,css&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,node.js&perline=5)](https://skillicons.dev)
   
 </p>
 
