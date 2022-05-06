@@ -1,4 +1,7 @@
 # Hey there, I'm Moiz Tareen
+ 
+
+ <img src="https://discord.c99.nl/widget/theme-2/802515724278693898.png">
 
 - 👋 I'm currently working on a Discord bot and a website.
 - 🌱 Interested in medical and coding.
