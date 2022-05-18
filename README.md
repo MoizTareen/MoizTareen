@@ -16,7 +16,7 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js&perline=5)](https://skillicons.dev)
   
 </p>
-<style="background-color:black;">
+<style="background-color:black;"> </style>
 ---
 <!---
 MoizTareen/MoizTareen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
