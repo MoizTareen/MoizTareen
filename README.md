@@ -14,7 +14,7 @@
 ### 🛠 &nbsp;Languages and Tools :
 <p>  
   
-[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,discordjs&perline=5)](https://skillicons.dev)
   
 </p>
 
