@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+---
 # Hey there, I'm [Moiz Tareen](https://moiztareen.cf)
  
 ---
@@ -16,7 +18,16 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js&perline=5)](https://skillicons.dev)
   
 </p>
+---
+<div align="center"> 
 
+    
+
+   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg) 
+
+    
+
+ </div>
 <!---
 MoizTareen/MoizTareen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
